@@ -8,8 +8,6 @@
 前回のコンテストの内容と違う部分を  
 はじめにお伝えしようと思います。 
 
-<br>
-
 [Discord: Plugin Contest!](https://discord.gg/sqawZHa)  
 **質問等、ここで承っております。**  
 
@@ -21,6 +19,8 @@
 | suinua         | 運営, 審査 |
 | yuko fuyutsuki | 運営, 審査 |
 | DaisukeDaisuke | 運営, 審査 |
+
+<br>  
 
 ***
 
