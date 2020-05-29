@@ -122,7 +122,10 @@
 
   Flowy等の使用が認められます。
   virionの使用も認めることになりますが、  
-  自分で実装したソースは技術点が高く評価される可能性があります
+  自分で実装したソースは技術点が高く評価される可能性があります  
+
+  使用できるPHP拡張モジュールには制限があります、
+  一番下を御確認ください。
 ```
 
 ```
@@ -147,4 +150,57 @@ Twitterでも構いません、私と連絡を取れるところで
 
 <br>
 
-***
+***  
+
+<br>
+
+## 使用できるPHP拡張モジュール一覧
+```
+[PHP Modules]
+bcmath
+calendar
+com_dotnet
+Core
+crypto
+ctype
+curl
+date
+dom
+ds
+filter
+gd
+gmp
+hash
+iconv
+igbinary
+json
+leveldb
+libxml
+mbstring
+mysqli
+mysqlnd
+openssl
+pcre
+PDO
+pdo_mysql
+pdo_sqlite
+Phar
+pocketmine_chunkutils
+pthreads
+recursionguard
+Reflection
+SimpleXML
+sockets
+sodium
+SPL
+sqlite3
+standard
+tokenizer
+xml
+xmlreader
+xmlwriter
+yaml
+Zend OPcache
+zip
+zlib
+```
