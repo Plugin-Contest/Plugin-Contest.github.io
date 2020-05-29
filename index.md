@@ -130,3 +130,21 @@ ribnilへDMの方で提出してください。
 Twitterでも構いません、私と連絡を取れるところで
 提出していただければと思います。
 ```
+
+<br>
+
+***
+
+<br>
+
+[Plugin Contest](https://discord.gg/sqawZHa)  
+質問等、ここで承っております。  
+
+| 運営メンバー     |           |
+|:--------------:|:---------:|
+| ribnil         | 主催, 審査 |
+| soradore       | 運営, 審査 |
+| Saisana        | 運営, 審査 |
+| suinua         | 運営, 審査 |
+| yuko fuyutsuki | 運営, 審査 |
+| DaisukeDaisuke | 運営, 審査 |
