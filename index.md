@@ -5,6 +5,21 @@
 前回のプラグインコンテストから約1年弱経ちました。  
 6月をもって、プラコン第二回を開催しようと思います！
 
+<br>
+
+| 運営メンバー     | 役割       |
+|:--------------:|:---------:|
+| ribnil         | 審査      |
+| soradore       | 審査      |
+| Saisana        | 審査      |
+| suinua         | 審査      |
+| fujiwaraizuho  | 審査      |
+| yuko fuyutsuki | 審査      |
+| DaisukeDaisuke | 審査      |
+
+<br>
+<br>
+
 [Discord: Plugin Contest!](https://discord.gg/sqawZHa)  
 **質問等、ここで承っております。**   
 
@@ -17,18 +32,6 @@
   6/3: 正式開催
  ~7/3: プラグイン提出締め切り
 ```  
-
-<br>
-
-| 運営メンバー     |           |
-|:--------------:|:---------:|
-| ribnil         | 主催, 審査 |
-| soradore       | 運営, 審査 |
-| Saisana        | 運営, 審査 |
-| suinua         | 運営, 審査 |
-| fujiwaraizuho  | 運営, 審査 |
-| yuko fuyutsuki | 運営, 審査 |
-| DaisukeDaisuke | 運営, 審査 |
 
 <br>
 
