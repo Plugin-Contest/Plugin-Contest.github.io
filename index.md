@@ -1,4 +1,4 @@
-# Plugin Contest  
+# Plugin Contest 2nd  
 
 ## 概要  
 
